@@ -1,0 +1,4 @@
+El proyecto está compuesto por los siguientes servicios:
+• Frontend: Interfaz gráfica de usuario (HTML/JS o framework) donde el usuario introduce los números y operaciones.
+• Web (Proxy/Servidor): Servidor web (ej. Nginx) que expone la aplicación al exterior y redirige las peticiones de la interfaz al backend.
+• Backend: Lógica de programación (ej. Node.js, Python, PHP) que procesa y resuelve las operaciones matemáticas.
